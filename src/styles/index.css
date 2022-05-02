@@ -10,3 +10,34 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.traffic-light{
+    background: black;
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+}
+
+.light{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.red { 
+    background: red;
+}
+.yellow {
+    background: yellow;
+}
+.green {
+    background: green;
+}
+
+.glow {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #e2fa07;
+}
+
+
+
